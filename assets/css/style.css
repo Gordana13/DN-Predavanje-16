@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://www.xmple.com/wallpaper/linear-white-highlight-gradient-red-1920x1080-c2-f08080-ffffff-l-33-a-15-f-21.svg");
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana;
+    margin-top: 7%;
+}
+
+form {
+    text-align: center;
+    margin-top: 4%;
+}
+
+input:hover {
+    border-color: black;
+}
+
+button {
+    background-color: gray;
+    color: white;
+    width: 10%;
+}
+
+h2 {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+a {
+    margin-top: 5%;
+    margin-left: 3%;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}

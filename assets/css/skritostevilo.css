@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://wallpaperscraft.com/image/circle_background_shape_texture_50701_1920x1080.jpg");
+}
+
+h1 {
+    margin-top: 5%;
+    margin-left: 19%;
+    font-size: 30px;
+}
+
+form {
+    margin-left: 47%;
+    margin-top: -3%;
+}
+
+a {
+    margin-top: 5%;
+    margin-left: 3%;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}

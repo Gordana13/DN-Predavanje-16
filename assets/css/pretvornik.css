@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://wallpaperscraft.com/image/background_light_lines_spots_65932_1920x1080.jpg");
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+p {
+    font-family: Georgia;
+    font-size: 18px;
+    margin-left: 10%;
+}
+
+form {
+    margin-left: 20%;
+    margin-top: -2.5%;
+}
+
+a {
+    margin-top: 5%;
+    margin-left: 3%;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+button {
+    border-color: darkgray;
+    border-style: groove;
+}

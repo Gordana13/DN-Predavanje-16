@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pretvornik</title>
+    <link rel="stylesheet" href="/assets/css/pretvornik.css">
+</head>
+<body>
+    <h1>Kilometer v milja</h1>
+
+    <br/>
+
+    <p>Vpišite kilometre:</p>
+
+        <form method="post" action="/pretvornik">
+            <input name="km" placeholder="km">
+            <button type="submit">Pretvori</button>
+        </form>
+
+    <p>Formula:  km * 0.62137</p>
+    <br/>
+
+    <p>Vpišite milja:</p>
+
+        <form method="post" action="/pretvornik">
+            <input name="milja" placeholder="milja">
+            <button type="submit">Pretvori</button>
+        </form>
+
+    <p>Formula: milja / 0.62137</p>
+    <br>
+
+    <hr/>
+    <h2>Povezave:</h2>
+
+    <h3>Kalkulator: <a href="/">Kalkulator</a> </h3>
+
+    <h3>Skrito število: <a href="/skritostevilo">Skrito število</a></h3>
+</body>
+</html>
